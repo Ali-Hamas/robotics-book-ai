@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@docusaurus/theme-mermaid": "^3.9.2",
+    "ai": "^5.0.104",
+    "clsx": "^2.1.1",
+    "openai": "^6.9.1",
+    "react-markdown": "^10.1.0"
+  }
+}
